@@ -2,10 +2,14 @@
 # CRUD-Sharp-MongoDB
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&color=blue&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&color=red)
+
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=.net&logoColor=white&color=blue)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Platform: Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-sharp-mongodb?color=yellown&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-sharp-mongodb?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-sharp-mongodb?color=black&logo=open-source-initiative)
+
+![Platform: Windows](https://img.shields.io/badge/Windows-blue?logo=windows) ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-sharp-mongodb?color=yellown&logo=github) 
 
 ## 1. Description
 A **registration system** developed using **C# (crud-sharp-mongodb)** and **Java (java-mongo-app)**, integrated with **MongoDB (NoSQL)** as the database. The project showcases robust features for handling data and security across different frameworks and programming languages.
